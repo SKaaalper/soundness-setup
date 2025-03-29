@@ -1,4 +1,4 @@
-# soundness-PubKey-setup
+# Soundness-pubKey-setup
 
 ![image](https://github.com/user-attachments/assets/0a9d608e-4e40-4db4-bd5e-997972bdf176)
 
