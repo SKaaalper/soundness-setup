@@ -44,9 +44,17 @@ soundness-cli generate-key --name my-key
 ## Join Discord:
 
 1. Join here: https://discord.gg/MRDQmzWeWP
-   - Go to **#testnet-access** Channel ▶️ Submit your **Pub-Key**.
+   - Go to **#soundness-cockpit** Channel ▶️ Submit your **Pub-Key**.
    - Format: `!access gUOAfnrUH1dmddsadas29GZW/pOGPuBl+kT9w=`
   
-![image](https://github.com/user-attachments/assets/f0d506a3-3833-46c8-8d1f-174ea2dfa1ed)
+![image](https://github.com/user-attachments/assets/d43d5ef2-150c-4ea1-8ce1-22a1bba77c89)
+
+2. Link your Telegram and Twitter:
+- Follow the prompt.
+- For **Telegram** Type: `/link_telegram <Your_Username>`
+- For **Twitter** Type: `/x_login <Your_Twitter_Profile>`
+- View your linked X account, whitelist key, and Telegram account Type: `/info`
+
+  ![image](https://github.com/user-attachments/assets/d1aa9656-17da-4f62-89d2-561661dd67cc)
 
 Official Guide: https://github.com/SoundnessLabs/soundness-layer/tree/main/soundness-cli
