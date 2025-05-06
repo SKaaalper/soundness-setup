@@ -45,7 +45,7 @@ soundness-cli generate-key --name my-key
 
 1. Join here: https://discord.gg/MRDQmzWeWP
    - Go to **#soundness-cockpit** Channel ▶️ Submit your **Pub-Key**.
-   - Format: `!access gUOAfnrUH1dmddsadas29GZW/pOGPuBl+kT9w=`
+   - Format: `/access gUOAfnrUH1dmddsadas29GZW/pOGPuBl+kT9w=`
   
 ![image](https://github.com/user-attachments/assets/d43d5ef2-150c-4ea1-8ce1-22a1bba77c89)
 
