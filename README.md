@@ -50,7 +50,6 @@ soundness-cli generate-key --name my-key
 ![image](https://github.com/user-attachments/assets/d43d5ef2-150c-4ea1-8ce1-22a1bba77c89)
 
 2. Link your Telegram and Twitter:
-- Follow the prompt.
 - For **Telegram** Type: `/link_telegram <Your_Username>`
 - For **Twitter** Type: `/x_login <Your_Twitter_Profile>`
 - View your linked X account, whitelist key, and Telegram account Type: `/info`
